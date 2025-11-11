@@ -3,13 +3,11 @@
     margin: 0px;
     padding: 0px;
 }
-
-body
+#openDialog
 {
     display: flex;
-    justify-content: center;
+    align-content: center;
 }
-
 button {
   margin: 5px;
   padding: 5px 10px;

@@ -3,13 +3,6 @@
     margin: 0px;
     padding: 0px;
 }
-
-body
-{
-    display: flex;
-    justify-content: center;
-}
-
 button {
   margin: 5px;
   padding: 5px 10px;

@@ -4,10 +4,10 @@
     padding: 0px;
 }
 
-body
+#openDialog
 {
     display: flex;
-    justify-content: center;
+    color: black;
 }
 
 button {
